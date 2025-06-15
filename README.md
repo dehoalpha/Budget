@@ -1,58 +1,59 @@
-# BudgetWise - Gestion de budget intelligent
+Fonctionnalités Clés
+Gestion Transactionnelle Avancée
 
-## Présentation du projet
+Enregistrement intuitif des opérations (revenus & dépenses)
 
-BudgetWise est une application web complète de gestion financière personnelle offrant des outils avancés pour suivre et optimiser vos finances.
+Système de catégorisation intelligent avec tags personnalisables
 
-### Fonctionnalités principales
-- **Gestion des transactions** :
-  - Ajout/modification/suppression
-  - Catégorisation et tags
-  - Filtres avancés
+Filtres dynamiques pour une analyse ciblée
 
-- **Analyse financière** :
-  - Tableau de bord complet
-  - Alertes intelligentes
-  - Bilan mensuel exportable
+Analytics Puissants
 
-- **Visualisation** :
-  - Graphique des dépenses
-  - Historique mensuel
-  - Comparaison budget/réel
+Tableau de bord personnalisable avec indicateurs clés
 
-### Nouveautés
-- 2 nouveaux graphiques
-- Export PDF automatique
+Système d'alertes proactives pour dépassements budgétaires
 
-## Technologies
+Génération de rapports mensuels exportables (PDF)
 
-### Backend
-- Flask (Python)
-- SQLite/JSON
-- PDFKit
+Visualisation Data-Driven
 
-### Frontend
-- HTML/CSS/JS
-- Chart.js
-- CSS Variables
+Graphiques interactifs des dépenses par catégorie
 
-### Infrastructure
-- **CI**: Python CI (tests automatisés)
-- Hébergement: Render
-- Monitoring: Sentry
+Historique financier sur 6 mois
 
-## Démo
+Comparatif Budget vs Réalité en temps réel
 
-[![Démo Live](https://img.shields.io/badge/Démo-Live-success)](https://budgetwise-zntb.onrender.com)
+Dernières Innovations
+Nouveaux modules graphiques pour une analyse approfondie
 
-## Code
+Export automatisé PDF avec mise en page professionnelle
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/etonti/BudgetWise)
+Synchronisation cloud pour un accès multi-appareils
 
-## Installation
+Stack Technologique
+Backend (Python)
 
-```bash
-git clone https://github.com/etonti/BudgetWise
-cd BudgetWise/backend
-pip install -r requirements.txt
-flask run#
+Framework : Flask RESTful
+
+Base de données : SQLite (Production), JSON (Dev)
+
+Génération PDF : PDFKit/Wkhtmltopdf
+
+Frontend (Web)
+
+Core : HTML5, CSS3, JavaScript ES6+
+
+DataViz : Chart.js v3 + Custom Plugins
+
+UI : Design System Moderne avec CSS Variables
+
+Infrastructure
+
+Intégration Continue : Python CI Pipeline
+
+Hébergement : Render (Infra as Service)
+
+Monitoring : Sentry (Error Tracking)
+
+Essayer la Démo
+render : https://budget-kdn1.onrender.com
